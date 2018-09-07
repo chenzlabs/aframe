@@ -48,7 +48,7 @@
     "present": "0.0.6",
     "promise-polyfill": "^3.1.0",
     "style-attr": "^1.0.2",
-    "three": "RSpace/three.js#8065334a690345999a5efbc1bab4e0548a7f1f54",
+    "three": "RSpace/three.js#b50b524a806d23dd83609f8a5f4ce06f6faa1c9a",
     "three-bmfont-text": "^2.1.0",
     "webvr-polyfill": "^0.10.5"
   },
